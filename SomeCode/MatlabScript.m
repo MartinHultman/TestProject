@@ -5,4 +5,4 @@ M = magic(5);
 disp(M);
 
 % Show the matrix
-plot(M);
+imagesc(M);
