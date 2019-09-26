@@ -1,7 +1,7 @@
 %% This file is for GitHub testing
 
 % Make a magic square
-M = magic(6);
+M = magic(7);
 disp(M);
 
 % Show the matrix
