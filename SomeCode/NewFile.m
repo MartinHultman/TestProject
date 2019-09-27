@@ -1,3 +1,3 @@
 %% This is new
 
-A = 1;
+A = 3;
